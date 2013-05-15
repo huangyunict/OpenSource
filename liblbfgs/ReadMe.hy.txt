@@ -10,3 +10,9 @@ The wrapping implementation do NOT support SSE optimization.
 include/lbfgs.h:484: add const modifier
 lib/lbfgs.c:252: add const modifier 
 
+[Build]
+./configure
+make
+
+cd libxx; make; cd ..
+
