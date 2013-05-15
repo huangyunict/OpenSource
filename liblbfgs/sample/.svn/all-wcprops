@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/12/trunk/OpenSource/liblbfgs/sample
+END
+Makefile.am
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/12/trunk/OpenSource/liblbfgs/sample/Makefile.am
+END
+sample.vcxproj
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/12/trunk/OpenSource/liblbfgs/sample/sample.vcxproj
+END
+Makefile.in
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/12/trunk/OpenSource/liblbfgs/sample/Makefile.in
+END
+sample.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/12/trunk/OpenSource/liblbfgs/sample/sample.cpp
+END
+sample.c
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/12/trunk/OpenSource/liblbfgs/sample/sample.c
+END

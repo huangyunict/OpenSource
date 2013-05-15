@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/!svn/ver/18/trunk/OpenSource/liblbfgs/lib
+END
+Makefile.am
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/12/trunk/OpenSource/liblbfgs/lib/Makefile.am
+END
+arithmetic_ansi.h
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/12/trunk/OpenSource/liblbfgs/lib/arithmetic_ansi.h
+END
+arithmetic_sse_float.h
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/12/trunk/OpenSource/liblbfgs/lib/arithmetic_sse_float.h
+END
+lbfgs.c
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/18/trunk/OpenSource/liblbfgs/lib/lbfgs.c
+END
+lib.vcxproj
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/12/trunk/OpenSource/liblbfgs/lib/lib.vcxproj
+END
+Makefile.in
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/12/trunk/OpenSource/liblbfgs/lib/Makefile.in
+END
+arithmetic_sse_double.h
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/12/trunk/OpenSource/liblbfgs/lib/arithmetic_sse_double.h
+END
