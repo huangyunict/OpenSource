@@ -1,7 +1,20 @@
 OpenSource
 ==========
 
-This repository stores collected open-source projects from other websites.
+This repository stores collected open-source libraries and toolkits from other websites.
+
+evalb
+-----
+This is a bracket scoring program, the standard evaluation program for constituency parsing.
+It reports precision, recall, F-measure, non crossing and tagging accuracy for given candidate against golden standard.
+
+This project is available at: http://nlp.cs.nyu.edu/evalb/
+
+Version is EVALB20080701.tgz
+
+I add test script *run_evalb.sh*.
+
+----
 
 liblbfgs
 --------
@@ -15,7 +28,7 @@ I give simple C++ wrap for this library, please see liblbfgs/ReadMe.hy.txt .
 
 utfcpp
 ------
-UTF-8 with C++ in a Portable Way 
+UTF-8 library with C++ in a Portable Way.
 
 This project is available at: http://utfcpp.sourceforge.net/
 
