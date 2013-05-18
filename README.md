@@ -26,6 +26,16 @@ Version is liblbfgs-1.10.tar.gz
 
 I give simple C++ wrap for this library, please see liblbfgs/ReadMe.hy.txt .
 
+tree
+----
+An STL-like C++ tree class.
+
+This project is available at: http://tree.phi-sci.com/
+
+Version is tree-2.81.tar.gz
+
+I made some changes, please see utfcpp/ReadMe.hy.txt .
+
 utfcpp
 ------
 UTF-8 library with C++ in a Portable Way.
@@ -35,4 +45,6 @@ This project is available at: http://utfcpp.sourceforge.net/
 Version is utf8_v2_3_1.zip
 
 I made some changes, please see utfcpp/ReadMe.hy.txt .
+
+
 
