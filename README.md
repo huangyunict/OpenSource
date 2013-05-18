@@ -34,7 +34,7 @@ This project is available at: http://tree.phi-sci.com/
 
 Version is tree-2.81.tar.gz
 
-I made some changes, please see utfcpp/ReadMe.hy.txt .
+I made some changes, please see tree/ReadMe.hy.txt .
 
 utfcpp
 ------
