@@ -25,7 +25,7 @@ else
 fi
 
 #   clean
-#safe_rm "${work_dir}"
+safe_rm "${work_dir}"
 
 exit 0
 
