@@ -197,7 +197,7 @@ public:
             break;
         default:
             std::cerr<<"Undefined error number, please check your codes."<<std::endl;
-            assert(0);
+            assert(false);
             break;
         }
     }
