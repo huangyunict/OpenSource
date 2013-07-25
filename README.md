@@ -14,6 +14,17 @@ Version is EVALB20080701.tgz
 
 I add test script *run_evalb.sh*.
 
+svdlibc
+-------
+This project provides a C library for computing Singular Value Decompositions (SVD).
+The front-end executable performs matrix file type conversions, along with computing singular value decompositions. 
+
+This project is available at: http://tedlab.mit.edu/~dr/SVDLIBC/
+
+Version is svdlibc-1.34.tgz
+
+I add test script *run_test.sh*.
+
 ----
 
 liblbfgs
