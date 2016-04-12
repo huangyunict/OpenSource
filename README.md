@@ -3,6 +3,14 @@ OpenSource
 
 This repository stores collected open-source libraries and toolkits from other websites.
 
+ekho
+----
+This project is a Chinese text-to-speech tool.
+
+This project is available at: http://www.eguidedog.net/ekho.php
+
+Version is ekho-6.4.2.tar.xz
+
 evalb
 -----
 This is a bracket scoring program, the standard evaluation program for constituency parsing.
